@@ -1,0 +1,9 @@
+{
+	"name": "david-datafactory-dev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dd9a8c39-11aa-4d91-a8df-271468e696eb",
+		"tenantId": "37d41187-aab3-42ac-ba7e-eb84d1f67b21"
+	}
+}
