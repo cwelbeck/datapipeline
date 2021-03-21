@@ -9,7 +9,7 @@
 				"type": "GetMetadata",
 				"dependsOn": [
 					{
-						"activity": "Validation1",
+						"activity": "ValidationFiles",
 						"dependencyConditions": [
 							"Succeeded"
 						]
@@ -216,7 +216,7 @@
 				}
 			},
 			{
-				"name": "Validation1",
+				"name": "ValidationFiles",
 				"type": "Validation",
 				"dependsOn": [],
 				"userProperties": [],
